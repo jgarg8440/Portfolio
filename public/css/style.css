@@ -5,6 +5,15 @@
     outline: 0;
     vertical-align: baseline;
 }
+.logonavbar{
+  display: flex;
+  width: 100%;
+    justify-content: space-between;
+}
+.top-logo{
+  height: 80px;
+  width: 80px;
+}
 .container-fluid{
     background-color: #1E2530;
     height: auto;
